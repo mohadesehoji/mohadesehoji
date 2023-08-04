@@ -2,6 +2,7 @@
 - 👀 I’m interested in Frontend Development. 
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me : mohadesehoji@gmail.com
+- https://www.linkedin.com/in/mohadeseh-ojanli-frontend-developer/
 
 <!---
 mohadesehoji/mohadesehoji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
